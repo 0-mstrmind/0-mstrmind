@@ -38,19 +38,6 @@
 
 <br/>
 
-## Featured Projects
-
-### 🔹 Real-Time File Sharing Platform
-Firebase-powered room & QR-based sharing system with 10+ DAU.
-
-### 🔹 E-Commerce Marketplace
-Full-stack marketplace with payments, authentication, and product management.
-
-### 🔹 Startup Incubation Platform
-Modern, responsive platform focused on performance and usability.
-
-<br/>
-
 ## Currently Learning
 
 ![System Design](https://img.shields.io/badge/System_Design-grey?style=for-the-badge)

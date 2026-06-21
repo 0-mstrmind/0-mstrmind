@@ -49,11 +49,7 @@
 ## GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=0-mstrmind&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Dinesh's GitHub Stats" />
   <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=0-mstrmind&theme=tokyonight&hide_border=true" alt="Dinesh's GitHub Streak" />
-</p>
-
-<p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=0-mstrmind&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </p>
 
@@ -62,12 +58,6 @@
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=0-mstrmind&theme=tokyo-night&hide_border=true" alt="Dinesh's Contribution Graph" />
 </p>
-
-<br/>
-
-## Contact
-
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dchandrap973@gmail.com)
 
 <br/>
 

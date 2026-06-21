@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm Dinesh</h1>
+<h1 align="center">Hi! I'm Dinesh Chandra Pandey</h1>
 
 <p align="center">
   Full-Stack Developer focused on building scalable web applications and intuitive user experiences.
